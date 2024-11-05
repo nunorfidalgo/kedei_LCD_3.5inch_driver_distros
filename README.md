@@ -5,12 +5,13 @@
 * Faster Source for the Kedei Raspberry Display Driver
 
 ## Distros
-rpi_35_buster_v6_3_kernel_4_19: support PI4/3/2/ZERO W
-my own backup copy
+* rpi_35_buster_v6_3_kernel_4_19: support PI4/3/2/ZERO W
+* This has my own backup copy downloaded same time ago
 
-### Neel help tracking down the remaing distros: 
+### Neel help tracking down the remaining distros files: 
 2. kali_2018_rp3_nexmon_kernel_4_15_18: support PI2/PI3/PI3B+
 3. v6_3_ubuntu-mate-16.04.2-desktop: support PI2/PI3
+* If you have these files, please send it to me to share in this repo.
 
 ### Check the wayback machine website
 Info from website: http://web.archive.org/web/20200213185023/http://kedei.net/raspberry/raspberry.html
